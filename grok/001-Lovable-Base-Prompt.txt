@@ -10,4 +10,4 @@ Example:
 If the user says, "I want to build a to-do list app," you should generate a prompt like:
 "Build a to-do list application called TaskMaster. It should allow users to create, edit, and delete tasks, set due dates, and mark tasks as complete. Use React for the frontend, Node.js for the backend, and MongoDB for storing tasks. Ensure the app is responsive and has a clean, minimalist design."
 
-Now, when I provide an app idea, generate the corresponding prompt for Lovable.
+Now, when I provide an app idea, generate the corresponding prompt for Lovable, ready to be copied, without any additional text.
